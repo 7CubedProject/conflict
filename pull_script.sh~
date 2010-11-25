@@ -3,4 +3,3 @@ if [ ${?} = 0 ];
 	then
 		echo "NO!"
 fi
-
